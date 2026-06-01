@@ -1,0 +1,2 @@
+ssid,network_type,authentication,cipher,signal_strength,channel,band,frequency_mhz,bssids,saved,quality_score,first_seen
+Punartham1,Infrastructure,WPA2-Personal,,78,44,5 GHz,,,True,65,2026-06-01T12:57:39.013496

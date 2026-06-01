@@ -1,0 +1,112 @@
+{
+  "report_generated": "2026-06-01T12:57:39.178594",
+  "interface": {
+    "name": "Wi-Fi",
+    "state": "connected",
+    "connected_ssid": "Punartham1",
+    "connected_bssid": "c6:fa:66:17:82:f4",
+    "network_type": "Infrastructure",
+    "authentication": "WPA2-Personal",
+    "cipher": "CCMP",
+    "connection_mode": "Auto Connect",
+    "channel": 44,
+    "signal": 76,
+    "radio_type": "802.11ax"
+  },
+  "summary": {
+    "total_networks": 1,
+    "open_networks": 0,
+    "wpa2_networks": 1,
+    "wpa3_networks": 0,
+    "saved_profiles": 48
+  },
+  "channel_analysis": {
+    "2.4GHz": {
+      "congested_channels": [],
+      "best_channels": [],
+      "total_networks": 0,
+      "recommended": [
+        1,
+        6,
+        11
+      ]
+    },
+    "5GHz": {
+      "congested_channels": [],
+      "best_channels": [
+        44
+      ],
+      "total_networks": 1,
+      "recommended": [
+        36,
+        40,
+        44,
+        48,
+        52
+      ]
+    }
+  },
+  "rogue_ap_alerts": [],
+  "networks": [
+    {
+      "ssid": "Punartham1",
+      "network_type": "Infrastructure",
+      "authentication": "WPA2-Personal",
+      "signal_strength": 78,
+      "channel": 44,
+      "band": "5 GHz",
+      "saved": true,
+      "first_seen": "2026-06-01T12:57:39.013496"
+    }
+  ],
+  "saved_profiles": [
+    "Nokia X30 5G",
+    "MITS-MH",
+    "Oppo_HGS",
+    "MITS_STAFF",
+    "DESKTOP-40LRMPJ 3303",
+    "OnePlus Nord CE5",
+    "ASIET WiFi",
+    "LAPTOP-A051N8FC 0786",
+    "ASIET_WiFi",
+    "JAIN WIFI",
+    "ESP8266-Energy-Monitor",
+    "OPPO A3x 5G",
+    "Pocket-WiFi-Tracker",
+    "Wi-Fi_Tracker",
+    "AndroidAP_9629",
+    "Tinker Space",
+    "Karthikeyan",
+    "Galaxy A7 (2018)999C",
+    "CMF by Nothing Phone 2 Pro_1277",
+    "Punartham1",
+    "arj",
+    "OPPO Reno8 Z 5G",
+    "Hisham’s iPhone",
+    "Nothing Phone (3a)_4649",
+    "MITS2",
+    "OnePlus 11R",
+    "CS_Lab",
+    "Hotspot",
+    "TECNO POVA 6 Pro 5G",
+    "OPPO A18",
+    "MITS_WIFI",
+    "POCO F6",
+    "OPPO Reno12 5G",
+    "Do Not Connect",
+    "MITS",
+    "Karthikeyan",
+    "Helping the poor is my passion",
+    "Project-Lab",
+    "AirFiber-Subu NK",
+    "HNS S20+",
+    "Subu's S20+",
+    "ACHAL",
+    "HNS Nokia X20",
+    "Alsabith’s iPhone",
+    "mr_errorkid",
+    "PUNARTHAM",
+    "PUNARTHAM_EXT",
+    "myG Domo"
+  ]
+}
